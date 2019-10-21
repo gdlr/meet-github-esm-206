@@ -1,6 +1,6 @@
 ---
-title: "Some cool animal facts"
-author: "Your name here"
+title: "Gabe's Furry Friends"
+author: "Gabriel De La Rosa"
 output: html_document
 ---
 
@@ -46,7 +46,17 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
 
-###
+#### Ringtail cats
+
+![Photo: courtesy of VA Zoo](img/ringtail_cat.jpg)
+
+##### Some ringtail cat facts:
+
+- They can rotate their hind feet 180 degrees
+- Not endangered, just really elusive
+- More like racoons than cats
+
+
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes in ESM 206, Bren School of Environmental Science and Management (UCSB) 
